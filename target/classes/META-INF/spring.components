@@ -1,0 +1,2 @@
+com.example.demo.DemoApplication=org.springframework.stereotype.Component
+com.example.demo.controller.SayHelloController=org.springframework.stereotype.Component
